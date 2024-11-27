@@ -1,0 +1,15 @@
+.lista-tabela {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 80%;
+}
+
+table thead th {
+    background-color: gray;
+}
+
+table {
+    border: black 1px solid;
+}

@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav ul {
+    width: 80%;
+    
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    
+}
+
+nav li {
+    list-style: none;
+}
+
+nav a {
+    background-color: blue;
+    color: white;
+
+    padding: 7px;
+    border-radius: 20px;
+
+    text-decoration: none;
+}
